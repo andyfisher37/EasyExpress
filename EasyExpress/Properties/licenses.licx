@@ -1,0 +1,6 @@
+DevExpress.XtraRichEdit.RichEditControl, DevExpress.XtraRichEdit.v20.1, Version=20.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.XtraEditors.LabelControl, DevExpress.XtraEditors.v20.1, Version=20.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.XtraTab.XtraTabControl, DevExpress.XtraEditors.v20.1, Version=20.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+Janus.Windows.GridEX.GridEX, Janus.Windows.GridEX.v3, Version=3.5.0.0, Culture=neutral, PublicKeyToken=null
+Janus.Windows.GridEX.EditControls.EditBox, Janus.Windows.GridEX.v3, Version=3.5.0.0, Culture=neutral, PublicKeyToken=null
+Janus.Windows.UI.StatusBar.UIStatusBar, Janus.Windows.UI.v3, Version=3.5.0.0, Culture=neutral, PublicKeyToken=null
